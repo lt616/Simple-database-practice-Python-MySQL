@@ -27,6 +27,7 @@ Same thing for save(). After insert() / delete() some rows, the data stored in c
 1). Primary key values are maintained by iterative dictionaries to provide O(1) primary key access. 
 
 e.g. primary key = {"playerID", "Height", "Weight"} 
+
 data structure for saving primary key value {"playerID" : '007', "Height" : '160'", "Weight" : '100'} is 
 
 {'007' : {'160' : '100': {index}}} 
