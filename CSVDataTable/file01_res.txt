@@ -1,0 +1,325 @@
+************* Module CSVTable
+C:  1, 0: Trailing whitespace (trailing-whitespace)
+C:  2, 0: Trailing whitespace (trailing-whitespace)
+C:  3, 0: Trailing whitespace (trailing-whitespace)
+C: 14, 0: Trailing whitespace (trailing-whitespace)
+W: 14, 0: Unnecessary semicolon (unnecessary-semicolon)
+C: 24, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: Trailing whitespace (trailing-whitespace)
+C: 26, 0: Trailing whitespace (trailing-whitespace)
+C: 29, 0: Trailing whitespace (trailing-whitespace)
+C: 31, 0: Trailing whitespace (trailing-whitespace)
+C: 32, 0: Trailing whitespace (trailing-whitespace)
+C: 33, 0: Trailing whitespace (trailing-whitespace)
+C: 34, 0: Trailing whitespace (trailing-whitespace)
+C: 36, 0: Trailing whitespace (trailing-whitespace)
+C: 37, 0: Trailing whitespace (trailing-whitespace)
+C: 38, 0: Trailing whitespace (trailing-whitespace)
+C: 39, 0: Trailing whitespace (trailing-whitespace)
+C: 41, 0: Trailing whitespace (trailing-whitespace)
+C: 43, 0: Trailing whitespace (trailing-whitespace)
+C: 44, 0: Trailing whitespace (trailing-whitespace)
+C: 45, 0: Trailing whitespace (trailing-whitespace)
+C: 46, 0: Trailing whitespace (trailing-whitespace)
+C: 47, 0: Trailing whitespace (trailing-whitespace)
+C: 48, 0: Trailing whitespace (trailing-whitespace)
+C: 49, 0: Trailing whitespace (trailing-whitespace)
+C: 51, 0: Trailing whitespace (trailing-whitespace)
+C: 52, 0: Trailing whitespace (trailing-whitespace)
+C: 53, 0: Trailing whitespace (trailing-whitespace)
+C: 54, 0: Trailing whitespace (trailing-whitespace)
+C: 60, 0: Trailing whitespace (trailing-whitespace)
+C: 60, 0: Trailing whitespace (trailing-whitespace)
+C: 62, 0: Trailing whitespace (trailing-whitespace)
+C: 63, 0: Trailing whitespace (trailing-whitespace)
+C: 64, 0: Trailing whitespace (trailing-whitespace)
+C: 65, 0: Trailing whitespace (trailing-whitespace)
+C: 66, 0: Trailing whitespace (trailing-whitespace)
+C: 67, 0: Trailing whitespace (trailing-whitespace)
+C: 69, 0: Trailing whitespace (trailing-whitespace)
+C: 72, 0: Trailing whitespace (trailing-whitespace)
+C: 73, 0: Trailing whitespace (trailing-whitespace)
+C: 74, 0: Trailing whitespace (trailing-whitespace)
+C: 76, 0: Trailing whitespace (trailing-whitespace)
+C: 82, 0: Trailing whitespace (trailing-whitespace)
+C: 82, 0: Trailing whitespace (trailing-whitespace)
+C: 83, 0: Trailing whitespace (trailing-whitespace)
+C: 84, 0: Trailing whitespace (trailing-whitespace)
+C: 86, 0: Trailing whitespace (trailing-whitespace)
+C: 88, 0: Trailing whitespace (trailing-whitespace)
+C: 89, 0: Trailing whitespace (trailing-whitespace)
+C: 90, 0: Trailing whitespace (trailing-whitespace)
+C: 91, 0: Trailing whitespace (trailing-whitespace)
+C: 92, 0: Trailing whitespace (trailing-whitespace)
+C: 94, 0: Trailing whitespace (trailing-whitespace)
+C: 95, 0: Trailing whitespace (trailing-whitespace)
+C: 96, 0: Trailing whitespace (trailing-whitespace)
+C: 97, 0: Trailing whitespace (trailing-whitespace)
+C:101, 0: Trailing whitespace (trailing-whitespace)
+C:102, 0: Trailing whitespace (trailing-whitespace)
+C:103, 0: Trailing whitespace (trailing-whitespace)
+C:104, 0: Trailing whitespace (trailing-whitespace)
+C:107, 0: Trailing whitespace (trailing-whitespace)
+C:108, 0: Trailing whitespace (trailing-whitespace)
+C:109, 0: Trailing whitespace (trailing-whitespace)
+C:110, 0: Trailing whitespace (trailing-whitespace)
+C:111, 0: Trailing whitespace (trailing-whitespace)
+C:112, 0: Trailing whitespace (trailing-whitespace)
+C:113, 0: Trailing whitespace (trailing-whitespace)
+C:114, 0: Trailing whitespace (trailing-whitespace)
+C:115, 0: Trailing whitespace (trailing-whitespace)
+C:116, 0: Trailing whitespace (trailing-whitespace)
+C:117, 0: Trailing whitespace (trailing-whitespace)
+C:118, 0: Trailing whitespace (trailing-whitespace)
+C:119, 0: Trailing whitespace (trailing-whitespace)
+C:121, 0: Trailing whitespace (trailing-whitespace)
+C:128, 0: Trailing whitespace (trailing-whitespace)
+C:129, 0: Trailing whitespace (trailing-whitespace)
+C:129, 0: Trailing whitespace (trailing-whitespace)
+C:130, 0: Trailing whitespace (trailing-whitespace)
+C:133, 0: Trailing whitespace (trailing-whitespace)
+C:134, 0: Trailing whitespace (trailing-whitespace)
+C:135, 0: Trailing whitespace (trailing-whitespace)
+C:136, 0: Trailing whitespace (trailing-whitespace)
+C:137, 0: Trailing whitespace (trailing-whitespace)
+C:138, 0: Trailing whitespace (trailing-whitespace)
+C:139, 0: Trailing whitespace (trailing-whitespace)
+C:140, 0: Trailing whitespace (trailing-whitespace)
+C:141, 0: Trailing whitespace (trailing-whitespace)
+C:148, 0: Trailing whitespace (trailing-whitespace)
+C:148, 0: Trailing whitespace (trailing-whitespace)
+C:149, 0: Trailing whitespace (trailing-whitespace)
+C:150, 0: Trailing whitespace (trailing-whitespace)
+C:151, 0: Trailing whitespace (trailing-whitespace)
+C:152, 0: Trailing whitespace (trailing-whitespace)
+C:153, 0: Trailing whitespace (trailing-whitespace)
+C:154, 0: Trailing whitespace (trailing-whitespace)
+C:155, 0: Trailing whitespace (trailing-whitespace)
+C:157, 0: Trailing whitespace (trailing-whitespace)
+C:158, 0: Trailing whitespace (trailing-whitespace)
+C:159, 0: Trailing whitespace (trailing-whitespace)
+C:165, 0: Trailing whitespace (trailing-whitespace)
+C:166, 0: Trailing whitespace (trailing-whitespace)
+C:166, 0: Trailing whitespace (trailing-whitespace)
+C:167, 0: Trailing whitespace (trailing-whitespace)
+C:168, 0: Trailing whitespace (trailing-whitespace)
+C:169, 0: Trailing whitespace (trailing-whitespace)
+C:170, 0: Trailing whitespace (trailing-whitespace)
+C:171, 0: Trailing whitespace (trailing-whitespace)
+C:174, 0: Trailing whitespace (trailing-whitespace)
+C:178, 0: Trailing whitespace (trailing-whitespace)
+C:184, 0: Trailing whitespace (trailing-whitespace)
+C:184, 0: Trailing whitespace (trailing-whitespace)
+C:185, 0: Trailing whitespace (trailing-whitespace)
+C:186, 0: Trailing whitespace (trailing-whitespace)
+C:187, 0: Trailing whitespace (trailing-whitespace)
+C:188, 0: Trailing whitespace (trailing-whitespace)
+C:189, 0: Trailing whitespace (trailing-whitespace)
+C:190, 0: Trailing whitespace (trailing-whitespace)
+C:191, 0: Trailing whitespace (trailing-whitespace)
+C:192, 0: Trailing whitespace (trailing-whitespace)
+C:193, 0: Trailing whitespace (trailing-whitespace)
+C:194, 0: Trailing whitespace (trailing-whitespace)
+C:195, 0: Trailing whitespace (trailing-whitespace)
+C:197, 0: Trailing whitespace (trailing-whitespace)
+C:198, 0: Trailing whitespace (trailing-whitespace)
+C:200, 0: Trailing whitespace (trailing-whitespace)
+C:202, 0: Trailing whitespace (trailing-whitespace)
+C:203, 0: Trailing whitespace (trailing-whitespace)
+C:204, 0: Trailing whitespace (trailing-whitespace)
+C:205, 0: Trailing whitespace (trailing-whitespace)
+C:206, 0: Trailing whitespace (trailing-whitespace)
+C:208, 0: Trailing whitespace (trailing-whitespace)
+C:209, 0: Trailing whitespace (trailing-whitespace)
+C:210, 0: Trailing whitespace (trailing-whitespace)
+C:211, 0: Trailing whitespace (trailing-whitespace)
+C:212, 0: Trailing whitespace (trailing-whitespace)
+C:213, 0: Trailing whitespace (trailing-whitespace)
+C:214, 0: Trailing whitespace (trailing-whitespace)
+C:215, 0: Trailing whitespace (trailing-whitespace)
+C:217, 0: Trailing whitespace (trailing-whitespace)
+C:219, 0: Trailing whitespace (trailing-whitespace)
+C:220, 0: Trailing whitespace (trailing-whitespace)
+C:221, 0: Trailing whitespace (trailing-whitespace)
+C:222, 0: Trailing whitespace (trailing-whitespace)
+C:223, 0: Trailing whitespace (trailing-whitespace)
+C:224, 0: Trailing whitespace (trailing-whitespace)
+C:227, 0: Trailing whitespace (trailing-whitespace)
+C:228, 0: Trailing whitespace (trailing-whitespace)
+C:229, 0: Trailing whitespace (trailing-whitespace)
+C:230, 0: Trailing whitespace (trailing-whitespace)
+C:231, 0: Trailing whitespace (trailing-whitespace)
+C:232, 0: Trailing whitespace (trailing-whitespace)
+C:235, 0: Trailing whitespace (trailing-whitespace)
+C:236, 0: Trailing whitespace (trailing-whitespace)
+C:237, 0: Trailing whitespace (trailing-whitespace)
+C:238, 0: Trailing whitespace (trailing-whitespace)
+C:239, 0: Trailing whitespace (trailing-whitespace)
+C:240, 0: Trailing whitespace (trailing-whitespace)
+C:241, 0: Trailing whitespace (trailing-whitespace)
+C:242, 0: Trailing whitespace (trailing-whitespace)
+C:243, 0: Trailing whitespace (trailing-whitespace)
+C:244, 0: Trailing whitespace (trailing-whitespace)
+C:245, 0: Trailing whitespace (trailing-whitespace)
+C:246, 0: Trailing whitespace (trailing-whitespace)
+C:247, 0: Trailing whitespace (trailing-whitespace)
+C:248, 0: Trailing whitespace (trailing-whitespace)
+C:249, 0: Trailing whitespace (trailing-whitespace)
+C:250, 0: Trailing whitespace (trailing-whitespace)
+C:251, 0: Trailing whitespace (trailing-whitespace)
+C:252, 0: Trailing whitespace (trailing-whitespace)
+C:253, 0: Trailing whitespace (trailing-whitespace)
+C:254, 0: Trailing whitespace (trailing-whitespace)
+C:256, 0: Trailing whitespace (trailing-whitespace)
+C:257, 0: Trailing whitespace (trailing-whitespace)
+C:258, 0: Trailing whitespace (trailing-whitespace)
+C:259, 0: Trailing whitespace (trailing-whitespace)
+C:260, 0: Trailing whitespace (trailing-whitespace)
+C:262, 0: Trailing whitespace (trailing-whitespace)
+C:264, 0: Trailing whitespace (trailing-whitespace)
+C:265, 0: Trailing whitespace (trailing-whitespace)
+C:266, 0: Trailing whitespace (trailing-whitespace)
+C:267, 0: Trailing whitespace (trailing-whitespace)
+C:268, 0: Trailing whitespace (trailing-whitespace)
+C:272, 0: Trailing whitespace (trailing-whitespace)
+C:273, 0: Trailing whitespace (trailing-whitespace)
+C:274, 0: Trailing whitespace (trailing-whitespace)
+C:275, 0: Trailing whitespace (trailing-whitespace)
+C:276, 0: Trailing whitespace (trailing-whitespace)
+C:277, 0: Trailing whitespace (trailing-whitespace)
+C:278, 0: Trailing whitespace (trailing-whitespace)
+C:279, 0: Trailing whitespace (trailing-whitespace)
+C:281, 0: Trailing whitespace (trailing-whitespace)
+C:282, 0: Trailing whitespace (trailing-whitespace)
+C:283, 0: Trailing whitespace (trailing-whitespace)
+C:284, 0: Trailing whitespace (trailing-whitespace)
+C:287, 0: Trailing newlines (trailing-newlines)
+C:  1, 0: Missing module docstring (missing-docstring)
+C: 13, 0: Invalid constant name "current_path" (invalid-name)
+C: 14, 0: Invalid constant name "rel_path" (invalid-name)
+C: 16, 0: Missing class docstring (missing-docstring)
+R: 16, 0: Too many instance attributes (8/7) (too-many-instance-attributes)
+C:101, 4: Missing method docstring (missing-docstring)
+C:123, 4: Invalid argument name "t" (invalid-name)
+W:156,15: Catching too general exception Exception (broad-except)
+C:156, 8: Invalid variable name "e" (invalid-name)
+W:154,20: Unused variable 'index' (unused-variable)
+C:161, 4: Invalid argument name "r" (invalid-name)
+C:179, 4: Invalid argument name "t" (invalid-name)
+C:205, 4: Invalid argument name "t" (invalid-name)
+C:205, 4: Missing method docstring (missing-docstring)
+R:205, 4: Method could be a function (no-self-use)
+C:212, 4: Missing method docstring (missing-docstring)
+R:212, 4: Method could be a function (no-self-use)
+C:220, 4: Invalid argument name "t" (invalid-name)
+C:220, 4: Missing method docstring (missing-docstring)
+C:228, 4: Missing method docstring (missing-docstring)
+C:236, 4: Missing method docstring (missing-docstring)
+C:257, 4: Missing method docstring (missing-docstring)
+C:267, 4: Missing method docstring (missing-docstring)
+C:274, 4: Missing method docstring (missing-docstring)
+C:284, 4: Missing method docstring (missing-docstring)
+W:  6, 0: Unused import copy (unused-import)
+
+
+Report
+======
+157 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |1      |NC         |NC         |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|method   |17     |NC         |NC         |41.18       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|function |0      |NC         |NC         |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |160    |55.36 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|docstring |34     |11.76 |NC       |NC         |
++----------+-------+------+---------+-----------+
+|comment   |21     |7.27  |NC       |NC         |
++----------+-------+------+---------+-----------+
+|empty     |74     |25.61 |NC       |NC         |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |NC       |NC         |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |NC       |NC         |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |214    |NC       |NC         |
++-----------+-------+---------+-----------+
+|refactor   |3      |NC       |NC         |
++-----------+-------+---------+-----------+
+|warning    |4      |NC       |NC         |
++-----------+-------+---------+-----------+
+|error      |0      |NC       |NC         |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++-----------------------------+------------+
+|message id                   |occurrences |
++=============================+============+
+|trailing-whitespace          |193         |
++-----------------------------+------------+
+|missing-docstring            |12          |
++-----------------------------+------------+
+|invalid-name                 |8           |
++-----------------------------+------------+
+|no-self-use                  |2           |
++-----------------------------+------------+
+|unused-variable              |1           |
++-----------------------------+------------+
+|unused-import                |1           |
++-----------------------------+------------+
+|unnecessary-semicolon        |1           |
++-----------------------------+------------+
+|trailing-newlines            |1           |
++-----------------------------+------------+
+|too-many-instance-attributes |1           |
++-----------------------------+------------+
+|broad-except                 |1           |
++-----------------------------+------------+
+
+
+
+
+------------------------------------
+Your code has been rated at -4.08/10
+
